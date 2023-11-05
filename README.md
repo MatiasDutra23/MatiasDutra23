@@ -1,12 +1,13 @@
-### ¡Saludos! 👋
+# Greetings! 👋
 
-  Soy **Matias Dutra** un desarrollador web uruguayo.
-  
-  *Mis intereses* abarcan diversos campos, desde el desarrollo web y las aplicaciones hasta el machine learning e inteligencia artificial.
-  Mi interes se extiende a sectores clave, como las finanzas, los negocios y los videojuegos. 
-  Estoy en la búsqueda de oportunidades que me permitan crecer y adquirir experiencia.
+I'm **Matias Dutra**, a Uruguayan web developer.
+**Languages:** Spanish (native), Portuguese (B1), English (B1).
 
-  En mi conjunto de **habilidades**, destacan HTML, CSS, JavaScript, Node.js, SQL, SQLite y MariaDB.
-  Tengo interes en tecnologías avanzadas, como React, React Native, Express y Next.js.
+My interests span various fields, from web development and applications to machine learning and artificial intelligence. 
+My interest extends to key sectors such as finance, business, and video games. 
+I'm actively seeking opportunities that allow me to grow and gain experience.
 
-  Si deseas contactarme o colaborar en un proyecto, no dudes en enviarme un correo electrónico a propuestas.matiasdutra23@hotmail.com o visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/matiasdutra23/) para conectarte. Además, puedes conocer más sobre mis intereses y mi enfoque en mi perfil de [Instagram](https://www.instagram.com/matias_dutraa/).
+In my skill set, you'll find HTML, CSS, JavaScript, Node.js, SQL, SQLite, and MariaDB. 
+I have an interest in advanced technologies like React, React Native, Express, and Next.js.
+
+If you'd like to get in touch or collaborate on a project, don't hesitate to email me at propuestas.matiasdutra23@hotmail.com or visit my [LinkedIn](https://www.linkedin.com/in/matiasdutra23/) profile to connect. You can also learn more about my interests and focus on my [Instagram](https://www.instagram.com/matias_dutraa/) profile.
